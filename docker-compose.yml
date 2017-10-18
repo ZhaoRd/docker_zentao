@@ -1,0 +1,13 @@
+# Use root/12346 as user/password credentials
+
+version: '2'
+
+services:
+    zrdzentao:
+        image: cuckoohello/zentao
+        container_name: zrdzentao
+        restart: always
+        ports:
+            - 1180:80
+        volumes:
+            - ./data:/opt/zbox/data/mysql/  # 配置文件

@@ -1,3 +1,0 @@
-[Fri Aug 04 05:23:20.531376 2017] [ssl:warn] [pid 25:tid 139684750792448] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
-[Fri Aug 04 05:23:20.537181 2017] [mpm_event:notice] [pid 25:tid 139684750792448] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.1 configured -- resuming normal operations
-[Fri Aug 04 05:23:20.537211 2017] [core:notice] [pid 25:tid 139684750792448] AH00094: Command line: '/opt/zbox/run/apache/httpd'
